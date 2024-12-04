@@ -22,7 +22,7 @@ function App() {
     <>
       <div>
         <a href="https://vite.dev" target="_blank">
-          <Button>Click me</Button>
+          <Button>Click us</Button>
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <a href="https://react.dev" target="_blank">
